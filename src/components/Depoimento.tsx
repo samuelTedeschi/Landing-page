@@ -7,7 +7,7 @@ export default function Depoimento(){
 
         <div className="grid grid-cols-3 gap-8 pt-20">
           <div className="p-6 border space-y-4">
-            <p className="leading-relaxed ">
+            <p className="leading-relaxed text-lg">
               Aumente a credibilidade do seu produto ou serviço inserindo
               depoimentos dos seus clientes. Todo mundo adora recomendações,
               então o depoimento de outros clientes é inestimável.
@@ -16,7 +16,7 @@ export default function Depoimento(){
           </div>
 
           <div className="p-6 border space-y-4">
-            <p className="leading-relaxed ">
+            <p className="leading-relaxed text-lg">
               Aumente a credibilidade do seu produto ou serviço inserindo
               depoimentos dos seus clientes. Todo mundo adora recomendações,
               então o depoimento de outros clientes é inestimável. Aumente a
@@ -27,7 +27,7 @@ export default function Depoimento(){
           </div>
 
           <div className="p-6 border space-y-4">
-            <p className="leading-relaxed ">
+            <p className="leading-relaxed text-lg">
               Aumente a credibilidade do seu produto ou serviço inserindo
               depoimentos dos seus clientes.
             </p>

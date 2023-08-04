@@ -2,7 +2,7 @@ export default function Avaliaçao(){
     return(
         <div className="h-screen bg-lime-950 text-white">
         <div>
-          <h2 className="text-6xl p-8">
+          <h2 className="text-7xl p-8">
             Por que trabalhar <br /> conosco
           </h2>
         </div>

@@ -2,7 +2,7 @@ export default function Equipe(){
     return(
         <div className="h-screen bg-lime-950 flex items-center justify-around">
         <div className="flex flex-col ">
-          <h2 className="text-7xl text-gray-100  p-8">
+          <h2 className="text-8xl text-gray-100  p-8">
             Conheça
             <br /> nossa equipe
           </h2>
