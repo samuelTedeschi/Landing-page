@@ -4,7 +4,7 @@ export default function Agende(){
         <div>
           <h2 className="text-6xl p-8">Agende uma Visita</h2>
         </div>
-        <div className="flex p-8 items-center space-x-10">
+        <div className="flex p-8 items-center space-x-10 container mx-auto">
           <div className="p-60 bg-slate-500"></div>
           <div className="p-10">
             <p className="text-3xl">

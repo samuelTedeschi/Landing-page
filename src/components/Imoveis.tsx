@@ -4,7 +4,7 @@ export default function Imoveis(){
         <div>
           <h2 className="text-6xl p-8">Novos imoveis</h2>
         </div>
-        <div className="grid grid-cols-3 gap-4 items-center p-8">
+        <div className="grid grid-cols-3 gap-4 items-center p-8 container mx-auto">
           <div>
             <div className="py-48 border bg-black"></div>
             <div className="space-y-2 pt-2">

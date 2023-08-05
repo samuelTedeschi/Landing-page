@@ -9,7 +9,7 @@ export default function Contato(){
           </h2>
         </div>
 
-        <div className="flex items-center space-x-4 pt-20">
+        <div className="flex items-center space-x-4 pt-20 container mx-auto">
           <Image
             src="/reuniao.jpg"
             alt="reuniao"

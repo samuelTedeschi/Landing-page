@@ -5,7 +5,7 @@ export default function Depoimento(){
           <h2 className="text-6xl">Depoimento</h2>
         </div>
 
-        <div className="grid grid-cols-3 gap-8 pt-20">
+        <div className="grid grid-cols-3 gap-8 pt-20 container mx-auto">
           <div className="p-6 border space-y-4">
             <p className="leading-relaxed text-lg">
               Aumente a credibilidade do seu produto ou serviço inserindo
