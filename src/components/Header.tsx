@@ -15,7 +15,7 @@ export default function Header() {
           <p className="text-4xl">Voce veio ao lugar certo.</p>
         </div>
         <div className="pb-3">
-          <div className="border p-48 bg-[url('https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg')] bg-cover bg-center grayscale shadow-lg "></div>
+          <div className="border p-48 h-full bg-[url('https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg')] bg-cover bg-center grayscale shadow-lg "></div>
         </div>
       </div>
     </header>

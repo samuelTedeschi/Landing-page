@@ -7,7 +7,7 @@ export default function Avaliaçao(){
           </h2>
         </div>
 
-        <div className="flex items-center justify-end container mx-auto">
+        <div className="flex items-center justify-end container mx-auto ">
         
 
         <div className="flex flex-col p-8 ">

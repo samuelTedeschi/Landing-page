@@ -32,10 +32,10 @@ export default function Equipe(){
           </div>
         </div>
         <div className="grid gap-4 grid-cols-2 m-12">
-          <div className="bg-zinc-400 p-28"></div>
-          <div className="bg-zinc-400 p-28"></div>
-          <div className="bg-zinc-400 p-28"></div>
-          <div className="bg-zinc-400 p-28"></div>
+          <div className="bg-zinc-400 p-28 bg-[url('https://images.pexels.com/photos/7641824/pexels-photo-7641824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')] bg-cover bg-center"></div>
+          <div className="bg-zinc-400 p-28 bg-[url('https://images.pexels.com/photos/8815878/pexels-photo-8815878.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')] bg-cover bg-center"></div>
+          <div className="bg-zinc-400 p-28 bg-[url('https://images.pexels.com/photos/7642125/pexels-photo-7642125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')] bg-cover bg-center"></div>
+          <div className="bg-zinc-400 p-28 bg-[url('https://images.pexels.com/photos/8730041/pexels-photo-8730041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')] bg-cover bg-center"></div>
         </div>
       </div>
     )
